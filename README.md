@@ -6,10 +6,10 @@ Create an algorithm to identify metastatic cancer in small image patches taken f
 - Removed duplicates from dataset 
 - PCam packs metastasis (cancer growth) detection into binary image classification tasks
 
+![alt images](https://github.com/ramruph/cancer-detection-CNN/blob/main/images/output.png)
 
 ## Dataset 
 - Training Data Size - 22,025
-
 - Test Data Size - 57,458
 
 #### About the dataset
@@ -32,7 +32,8 @@ Create an algorithm to identify metastatic cancer in small image patches taken f
 - Dropout
 - Output Classification 
 
-# Conculsion 
+# Conclusion 
+![alt images](https://github.com/ramruph/cancer-detection-CNN/blob/main/images/output1.png)
 
 Through this project I implemented a convolution nueral network to label if an input image of medical image scans. Through this project I used a 3 layer convolution neural network to process the train images, then make predicitons. My model had a 94% accuracy score and through kaggle and with the test data I achieved a public and private score of 0.8409 and 0.8495 respectively. I could further this score by hypertuning the epochs, batch sizes and filter/ model architecure redesign or refactoring.
 Due to time constraints I couldn't further explore hypertuning to achieve a higher score for this competition 
