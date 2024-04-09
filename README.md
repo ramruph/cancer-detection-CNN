@@ -1,5 +1,5 @@
 # Problem Description and Data
-This Kaggle competition is a binary image classification problem where I will identify metastatic cancer in small image patches taken from larger digital pathology scans. I will implement a CNN (Convultional Neural Network) to label new image scans to determine the presence of metastasis cancer.
+This Kaggle competition is a binary image classification problem where I will identify metastatic cancer in small image patches taken from larger digital pathology scans. I will implement a CNN (Convultional Neural Network) to label new image scans to determine the presence of metastasis cancer. Url to the competition - https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview
 
 ## Description 
 Create an algorithm to identify metastatic cancer in small image patches taken from larger digital pathology scans. The data is a slightly modified version of the PatchCamelyon (PCam) benchmark dataset.
@@ -8,7 +8,7 @@ Create an algorithm to identify metastatic cancer in small image patches taken f
 
 ![alt images](https://github.com/ramruph/cancer-detection-CNN/blob/main/images/output.png)
 
-## Dataset 
+## Dataset (Large Dataset; Download from https://www.kaggle.com/competitions/histopathologic-cancer-detection/data)
 - Training Data Size - 22,025
 - Test Data Size - 57,458
 
